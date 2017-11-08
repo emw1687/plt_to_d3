@@ -1,7 +1,5 @@
-plt_to_d3
-==============================
-
 How to create a custom visualization library in python
+==============================
 
 Project Organization
 ------------
