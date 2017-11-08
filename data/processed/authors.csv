@@ -1,0 +1,242 @@
+a_id,a_fans_count,a_works_count,gender,hometown,a_avg_rating,a_ratings_count,a_text_reviews_count,author,a_wks_on_list,a_books_on_list
+29326,6,71,not reported,Boston,3.63,362,57,F. van Wyck Mason,5.0,1.0
+150377,7,5,male,"Bloomington, Indiana",3.97,768,66,Ross Lockridge Jr.,4.0,1.0
+4725841,42443,23,female,London,3.78,2801267,143156,E.L. James,33.0,2.0
+3849415,13202,28,female,not reported,4.03,420892,43371,Deborah Harkness,1.0,1.0
+24978,13992,189,not reported,not reported,4.02,635861,36545,Maya Banks,1.0,1.0
+20248,32407,100,not reported,not reported,4.3,1487190,80301,J.R. Ward,2.0,2.0
+1455,15652,543,not reported,"Oak Park, Illinois",3.82,1489381,51280,Ernest Hemingway,7.0,1.0
+6098,603,28,not reported,Worcestershire,3.85,85528,3983,Nicholas Evans,2.0,1.0
+9222,679,17,female,"Elmira, New York",3.36,346990,8604,Emma McLaughlin,1.0,1.0
+20704,1243,18,not reported,"Port Huron, Michigan",3.94,59117,3344,Terry McMillan,5.0,2.0
+1943477,10246,4,female,"Jackson, Mississippi",4.45,1507248,76936,Kathryn Stockett,22.0,1.0
+13370,11412,22,female,"Baltimore, Maryland",3.77,1068163,42153,Emily Giffin,1.0,1.0
+10746,28746,152,male,"Independence, Missouri",4.26,1797922,73599,Jim Butcher,3.0,3.0
+819789,9901,80,male,"Manhattan, New York",3.83,2336569,53229,J.D. Salinger,37.0,2.0
+3670,6123,49,female,London (England),4.0,466578,33493,Jhumpa Lahiri,1.0,1.0
+858,1181,465,male,"Jamestown, North Dakota",3.98,237447,9711,Louis L'Amour,6.0,3.0
+7577,16358,179,female,"New Orleans, Louisiana",3.86,1628875,42624,Anne Rice,12.0,5.0
+61105,14250,372,male,"Springfield, MA",4.23,2384304,40377,Dr. Seuss,5.0,1.0
+3299,4959,53,male,Bombay,3.83,255127,18733,Salman Rushdie,9.0,1.0
+4610,3659,77,male,"Cedar Rapids, Iowa",4.14,589344,27637,John Sandford,10.0,8.0
+12833,390,107,not reported,"San Francisco, California",4.1,94184,3273,Irving Stone,51.0,3.0
+107767,3647,92,female,not reported,4.13,285290,18277,Robyn Carr,2.0,2.0
+19824,216,41,male,"Pascagoula, Mississippi",3.73,15538,1529,Jimmy Buffett,3.0,1.0
+388840,8,13,not reported,Metz,4.18,866,106,André Schwarz-Bart,4.0,1.0
+1730,5575,483,male,Alessandria,3.93,391679,15664,Umberto Eco,5.0,1.0
+18344,2,2,not reported,not reported,3.65,8098,394,Joyce Reardon,1.0,1.0
+33472,294,97,male,Helsinki,4.01,21908,931,Mika Waltari,16.0,1.0
+45314,34,109,male,"Lawrence, New York",3.64,3669,498,Louis Auchincloss,1.0,1.0
+1415338,675,95,male,"Newark, New Jersey",4.14,135641,3331,W.E.B. Griffin,2.0,2.0
+59605,46,71,male,"Kennebunk, Maine",4.15,5354,333,Kenneth Roberts,12.0,1.0
+16893,25,51,male,"Webster City, Iowa",4.05,7162,386,MacKinlay Kantor,12.0,1.0
+1360780,0,1,female,not reported,4.22,9,1,Adria Locke Langley,12.0,1.0
+33384,170,71,female,Manchester,4.1,31258,1123,Taylor Caldwell,9.0,1.0
+1063732,9844,3,female,not reported,3.88,1004018,86375,Paula Hawkins,26.0,1.0
+23356,13,42,female,New York. New York,3.84,10899,635,Rachel Field,7.0,1.0
+12455,3403,29,male,"Jackson, Tennessee",4.02,643074,10217,Thomas Harris,7.0,1.0
+19823,88470,100,female,Los Angeles,4.16,1062280,55670,Sylvia Day,5.0,4.0
+32279,253,86,female,"Baltimore, Maryland",3.92,24511,1076,Joan D. Vinge,8.0,1.0
+674062,0,2,female,Toronto,3.89,100,19,Gwethalyn Graham,2.0,1.0
+12605,2223,42,male,"Manhattan, New York",4.24,318530,7765,Mario Puzo,23.0,2.0
+383606,11798,10,not reported,not reported,3.94,525296,48016,Robert Galbraith,5.0,1.0
+2327917,684,6,female,"Brooklyn, NY",4.23,306076,16234,Betty  Smith,22.0,1.0
+3075,8882,106,male,"Exeter, New Hampshire",3.98,789019,33133,John Irving,13.0,4.0
+9291,73255,111,male,"Richmond, Virginia",4.03,1006755,57148,David Baldacci,15.0,13.0
+8719,7118,20,female,"Greenwood, Mississippi",3.9,636089,58690,Donna Tartt,4.0,1.0
+6417,1318,60,male,"Sydney, New South Wales",4.26,227609,5416,James Clavell,19.0,2.0
+3936,1296,102,male,"Manchester, Georgia",3.84,254969,14230,Stuart Woods,2.0,2.0
+93127,10,20,not reported,"Ishpeming, Michigan",4.03,1601,194,Robert Traver,29.0,1.0
+14610,2306,116,male,"Brooklyn, New York",3.85,140549,9850,Brad Meltzer,2.0,2.0
+9629,44106,166,male,"Sterling, Illinois",3.94,626672,15709,Terry Brooks,4.0,1.0
+569,92831,21,male,Kabul,4.25,2840925,125491,Khaled Hosseini,15.0,1.0
+75516,2,21,male,"Dayton, Ohio",4.0,2276,118,Fletcher Knebel,5.0,2.0
+2578,3881,45,male,"Chicago, Illinois",3.72,308926,27213,Jonathan Franzen,5.0,2.0
+861,2327,42,female,"Chicago, Illinois",3.91,400471,13519,Jean M. Auel,29.0,4.0
+4882127,9395,86,female,not reported,4.15,203672,20842,Rachel Van Dyken,1.0,1.0
+21004,43,9,female,"Manchester, New Hampshire",3.7,8419,796,Grace Metalious,29.0,1.0
+43626,2408,99,male,New York,3.86,347867,14686,Jonathan Kellerman,3.0,3.0
+6942,1967,63,not reported,"Atlanta, Georgia",4.13,313655,17111,Pat Conroy,5.0,2.0
+7385,755,36,male,"Buffalo, New York",4.06,133430,7462,Chaim Potok,3.0,1.0
+1825,8324,13,female,"Monroeville, Alabama",4.21,3348149,92698,Harper Lee,4.0,1.0
+5091,13278,175,male,not reported,4.05,1212767,62331,Lee Child,10.0,10.0
+10039,1253,65,male,Leigh-on-Sea in Essex,3.93,119082,5952,John Fowles,12.0,1.0
+16904,1806,65,male,"Oak Park, IL",3.88,222753,8138,Richard Bach,38.0,1.0
+7128,35172,59,female,"Nesconset, Long Island, New York,",3.94,2731568,161397,Jodi Picoult,12.0,4.0
+807271,203,67,male,"Cardross, Dunbartonshire, Scotland",4.08,11358,770,A.J. Cronin,28.0,4.0
+2031,109,67,male,Leigh,3.91,21322,1803,James Hilton,1.0,1.0
+32155,142,26,female,"New York, New York",3.78,32356,683,Judith Krantz,12.0,4.0
+7995,1151,152,male,"New York, New York",4.11,236703,7966,James A. Michener,200.0,9.0
+120490,5,38,not reported,Maine,3.75,179,40,Mary Ellen Chase,4.0,1.0
+3083854,1271,99,male,"Richmond, Virginia",3.83,200003,9145,Tom Wolfe,18.0,2.0
+86175,18,24,male,Kayseri,3.89,1152,111,Elia Kazan,23.0,1.0
+300708,19,15,male,Washington D.C.,4.11,1225,125,Samuel Shellabarger,18.0,2.0
+2001717,3285,183,female,London,4.12,394945,21139,Daphne du Maurier,51.0,7.0
+656983,44656,402,male,"Bloemfontein, Mangaung, Free State",4.3,5974861,89160,J.R.R. Tolkien,24.0,2.0
+3513,215,14,female,not reported,3.7,72361,2754,Christina Schwarz,1.0,1.0
+5246,5354,77,female,"Oakland, California",3.89,783087,20258,Amy Tan,7.0,1.0
+3505,4101,11,male,"Norwich, Connecticut",3.95,620725,30494,Wally Lamb,3.0,2.0
+4464118,32433,37,female,"Tulsa, Oklahoma",4.14,868799,62469,Jamie McGuire,1.0,1.0
+92960,13,10,female,Berlin,3.92,7136,461,Bel Kaufman,8.0,1.0
+704,1216,202,female,"Hillsboro, West Virginia",3.96,235870,11882,Pearl S. Buck,5.0,1.0
+46097,2496,92,male,"Salt Lake City, Utah",4.14,242905,26859,Richard Paul Evans,5.0,1.0
+32202,67,67,male,St. Kilda,3.85,7444,501,Morris L. West,14.0,1.0
+7464,438,148,male,"Quincy, Massachusetts",3.98,35433,2293,John Cheever,3.0,1.0
+1238,3145,78,male,"New York, NY",4.01,317497,15974,Nelson DeMille,8.0,4.0
+339820,9,38,male,Kutno,4.04,416,65,Sholem Asch,1.0,1.0
+5353,745,80,female,"Leeds, West Yorkshire",3.89,80223,3915,Barbara Taylor Bradford,1.0,1.0
+3617,84444,143,female,Arizona,4.25,1578171,90914,Diana Gabaldon,5.0,3.0
+104728,436,20,male,"New York, New York",4.09,134113,3422,William Peter Blatty,12.0,1.0
+9355,17449,402,not reported,"Everett, Pennsylvania",3.89,1917309,71595,Dean Koontz,29.0,13.0
+3620,89,11,not reported,"Olivia, Minnesota",3.97,14488,958,Kathleen Winsor,5.0,1.0
+7565,417,50,male,"Newport News, Virginia",4.12,100650,3915,William Styron,27.0,2.0
+40552,1156,42,female,"Lenoir, North Carolina",4.19,193514,11369,Jan Karon,3.0,2.0
+3780,184602,498,male,"Newburgh, New York",3.97,4316624,199125,James Patterson,102.0,58.0
+27991,108,83,male,"Pottsville, Pennsylvania,",3.79,16441,1183,John O'Hara,6.0,1.0
+49699,1802,105,female,"London, England",3.92,111474,4302,Jackie Collins,2.0,1.0
+2014,572,197,male,"Anoka, Minnesota",3.82,40744,4018,Garrison Keillor,6.0,1.0
+463,3138,139,male,"Newark, New Jersey",3.79,279041,19194,Philip Roth,14.0,1.0
+2384,22539,106,female,"South River, New Jersey",3.99,2749012,114900,Janet Evanovich,33.0,22.0
+2749,570,46,male,"Chicago, Illinois",3.98,167377,5335,Scott Turow,19.0,2.0
+5088,2854,37,male,not reported,4.15,208203,8993,Brad Thor,3.0,3.0
+3167,1356,28,male,"Brooklyn, New York",3.96,572425,14114,Joseph Heller,3.0,2.0
+630,52340,42,male,"Exeter, New Hampshire",3.77,5071835,136662,Dan Brown,75.0,3.0
+128499,128,53,male,"Chicago, Illinois",3.77,16594,809,Irving Wallace,2.0,1.0
+3500,1894,58,female,"Philadelphia, Pennsylvania",3.84,294194,22343,Anna Quindlen,1.0,1.0
+57432,45,77,male,"Prague, Bohemia",4.07,2065,229,Franz Werfel,15.0,1.0
+3504,520,47,female,not reported,3.76,131978,5395,Jacquelyn Mitchard,6.0,1.0
+8258,521,38,male,"Reading, Pennsylvania",3.93,83704,3819,Martin Cruz Smith,4.0,2.0
+40563,17407,81,female,"Butte, Montana",4.24,941259,45322,Patricia Briggs,3.0,3.0
+15516,549,49,male,"Brooklyn, New York",3.67,76990,3396,Erich Segal,48.0,2.0
+7927,588,127,male,"Long Branch, New Jersey",3.82,59387,3831,Norman Mailer,19.0,1.0
+12479,2589,141,male,"Chicago, IL",4.03,247056,8171,Timothy Zahn,1.0,1.0
+99044,6015,235,female,"Bronx, New York",3.81,537270,26472,Mary Higgins Clark,44.0,16.0
+4711,4589,23,female,"Sylvester, Georgia",3.98,1161943,52721,Sue Monk Kidd,2.0,2.0
+2345,149432,94,male,"Omaha, Nebraska",4.06,4362430,131707,Nicholas Sparks,24.0,11.0
+127901,73,27,male,"Columbia City, Indiana",4.15,21789,1312,Lloyd C. Douglas,62.0,2.0
+1077326,154724,165,female,"Yate, South Gloucestershire, England",4.42,17087119,421532,J.K. Rowling,25.0,4.0
+18411,4029,142,male,Alhambra,3.92,556027,21003,Clive Cussler,10.0,4.0
+7368903,34,51,female,"Charlottesville, VA",3.74,2088,205,Frances Parkinson Keyes,8.0,1.0
+322069,17229,17,not reported,Sydney,3.95,969184,83608,Liane Moriarty,2.0,2.0
+92881,34,5,female,"Cincinnati, Ohio",4.1,10580,475,Helen Hooven Santmyer,7.0,1.0
+3534,6341,118,female,"Lorain, Ohio",3.84,559473,25952,Toni Morrison,3.0,1.0
+7717,979,50,male,"Newbury, Berkshire, England",4.03,318677,11667,Richard Adams,13.0,1.0
+8468,33,42,male,"New York, New York",4.02,2734,315,Budd Schulberg,8.0,1.0
+50786,311,59,female,Wells,4.12,19523,1986,Elizabeth Goudge,8.0,2.0
+1221698,108386,1062,male,not reported,4.13,3936916,221817,Neil Gaiman,1.0,1.0
+5194,9111,109,male,"Chicago, Illinois",3.78,1875793,40892,Michael Crichton,24.0,5.0
+3389,258689,1260,male,"Portland, Maine",4.0,9713086,319084,Stephen King,144.0,36.0
+3892,4009,286,male,"Baltimore County, Maryland",3.99,1061991,16243,Tom Clancy,74.0,14.0
+721,25546,174,male,"Jonesboro, Arkansas",3.87,3495710,103422,John Grisham,139.0,27.0
+296437,7,20,male,"Chicago, IL",3.49,1137,70,James Gould Cozzens,24.0,1.0
+153910,21,7,male,"Custer City, Oklahoma",3.57,2712,333,William Brinkley,15.0,1.0
+7735,163,84,male,"South Bronx, New York City, New York",4.08,36876,965,Irwin Shaw,4.0,1.0
+346732,68192,744,male,"Bayonne, New Jersey",4.36,3910986,155065,George R.R. Martin,2.0,2.0
+74572,139,77,female,"Indian Creek, Texas",3.95,14052,1061,Katherine Anne Porter,26.0,1.0
+982213,292,3,male,not reported,3.6,77572,12836,David Wroblewski,2.0,1.0
+18282,5380,42,female,not reported,4.08,389003,23130,Lisa Gardner,1.0,1.0
+17061,25446,140,not reported,"Tunica, Mississippi",3.93,2827880,111062,Charlaine Harris,5.0,4.0
+26372,8631,73,female,Chicago,3.94,525165,25739,Kathy Reichs,1.0,1.0
+22665,1897,5,female,Reading,3.9,231122,21492,Diane Setterfield,2.0,1.0
+2533,2366,164,male,"Berkhamsted, Hertfordshire",3.89,203063,14052,Graham Greene,2.0,1.0
+3447,13577,178,not reported,Cardiff,4.16,1228342,69801,Ken Follett,11.0,8.0
+1239,3160,130,female,not reported,3.96,283958,12248,Catherine Coulter,3.0,3.0
+4917067,1313,73,not reported,"Wellington, New South Wales",4.16,333525,9007,Colleen McCullough,30.0,2.0
+31321,273,138,male,Whyalla,3.75,40010,2405,Sean Williams,1.0,1.0
+12470,12078,110,male,"Philadelphia, Pennsylvania",4.09,1148943,53632,Michael Connelly,12.0,12.0
+97157,21,13,female,New York City,3.62,5800,314,Judith Rossner,3.0,1.0
+7130,596,19,male,"Asheville, North Carolina",3.8,203554,7867,Charles Frazier,18.0,1.0
+156078,15,38,male,"Wilmington, DE",3.66,2501,238,John P. Marquand,49.0,4.0
+1357577,592,86,not reported,Carjoc,3.65,25041,1628,Françoise Sagan,12.0,1.0
+545,12011,75,male,"Fort Meade, MD",4.05,578041,34570,Neal Stephenson,1.0,1.0
+38550,54481,172,male,"Lincoln, Nebraska",4.36,1763980,117025,Brandon Sanderson,1.0,1.0
+108424,105755,36,male,"Madison, Wisconsin",4.49,751109,50491,Patrick Rothfuss,1.0,1.0
+50026,14,14,male,"Providence, RI",3.89,2307,184,Edwin O'Connor,20.0,1.0
+5293,2716,183,male,"New York, New York",3.96,824678,12370,Robert Ludlum,81.0,8.0
+316,3089,14,female,"Madison, Wisconsin",3.75,1709437,44991,Alice Sebold,10.0,1.0
+9068,4931,131,male,"Chicago, Illinois",3.8,459866,13343,Sidney Sheldon,58.0,8.0
+48143,49,5,not reported,not reported,3.99,6284,468,Annemarie Selinko,32.0,1.0
+36714,1626,123,male,"Ashford, Kent, England",4.04,242402,5515,Frederick Forsyth,19.0,3.0
+188932,603,44,male,"Mount Vernon, Washington",3.87,63389,8898,Glenn Beck,3.0,2.0
+6252,7933,255,male,"Charleston, South Carolina",4.16,1676030,37280,Robert Jordan,9.0,7.0
+6474348,13054,12,male,not reported,4.37,215443,25481,Pierce Brown,1.0,1.0
+4116,2515,86,male,Osnabrück,4.0,311709,8234,Erich Maria Remarque,8.0,1.0
+222948,11,40,male,"Macon, Mississippi",4.07,735,130,Ben Ames Williams,14.0,1.0
+5197,4,10,not reported,"Albuquerque, New Mexico",4.12,864,93,Robert Crichton,18.0,1.0
+123715,23430,1905,female,"Torquay, Devon, England",3.96,2247919,95689,Agatha Christie,26.0,2.0
+4176632,2640,560,male,Paris,4.03,140305,10981,W. Somerset Maugham,4.0,1.0
+6268,8905,107,female,not reported,4.22,695526,24554,Christine Feehan,2.0,2.0
+78901,10,11,not reported,New York City,4.08,906,122,Marcia Davenport,2.0,1.0
+1025097,9196,93,female,"Miami, Florida",3.87,944412,27718,Patricia Cornwell,42.0,18.0
+48206,20398,30,female,"Cincinnati, Ohio",4.26,732592,46224,Karen Marie Moning,1.0,1.0
+15328,94,52,male,Tientsin,3.94,50677,2462,John Hersey,5.0,1.0
+76243,61,18,male,not reported,3.65,6836,758,James Finn Garner,6.0,1.0
+24556,3982,6,female,Vancouver,4.03,1150641,66805,Sara Gruen,8.0,1.0
+54915,96,38,female,not reported,3.88,13314,590,Helen MacInnes,18.0,1.0
+6218,8663,151,female,"Waco, TX",3.87,467129,29260,Sandra Brown,4.0,4.0
+4820,5008,175,male,London,3.98,492121,25372,Jeffrey Archer,9.0,3.0
+3441,7947,87,male,"Omaha, Nebraska",4.0,793842,18332,Terry Goodkind,1.0,1.0
+5152,7185,342,male,Saint Petersburg,3.88,844605,30565,Vladimir Nabokov,7.0,1.0
+42572,25,24,male,"Wilmington, North Carolina",4.24,2352,197,Robert Ruark,2.0,1.0
+24689,9682,95,not reported,"Newark, New Jersey",3.97,735851,50209,Harlan Coben,8.0,7.0
+6540057,12532,26,male,not reported,4.38,486950,60941,Andy Weir,3.0,1.0
+28024,196,24,male,"Rockford, Iowa",3.46,63329,3912,Robert James Waller,47.0,2.0
+28186,4912,26,male,"Cleveland, Ohio",4.29,482666,51021,Anthony Doerr,3.0,1.0
+6997290,0,8,not reported,not reported,3.21,28,6,Frederic Wakeman,19.0,1.0
+625,22884,652,female,"Silver Spring, Maryland",4.06,2759816,96337,Nora Roberts,23.0,19.0
+2778055,19988,284,male,"Indianapolis, Indiana",4.04,1890279,56584,Kurt Vonnegut,15.0,2.0
+2331,48989,43,not reported,"Passaic, New Jersey",3.99,1312361,60422,Mitch Albom,16.0,2.0
+2383,41983,17,female,"Kansas City, MO",3.98,2251885,181500,Gillian Flynn,7.0,1.0
+108940,50,18,male,"Evanston, Illinois",4.09,7915,984,Patrick Dennis,5.0,1.0
+5918,2121,10,female,"New London, Connecticut",3.74,229415,18126,Elizabeth Kostova,1.0,1.0
+9559,3830,97,female,"Louisville, Kentucky",3.9,708112,26311,Sue Grafton,15.0,10.0
+941441,50765,71,female,Connecticut,3.64,8497509,290967,Stephenie Meyer,2.0,1.0
+33590,1,8,not reported,not reported,4.04,696,70,Henry Morton Robinson,24.0,1.0
+8203,480,50,male,not reported,3.65,99291,3979,James Redfield,27.0,1.0
+5768,454,151,male,Chicago,4.09,136055,3031,John Jakes,3.0,1.0
+22485,280,12,female,"Philadelphia, Pennsylvania",3.69,46541,2983,Jacqueline Susann,49.0,3.0
+5772434,85,44,male,Brantford - Ontario,4.06,9250,633,Thomas B. Costain,46.0,3.0
+4430,20066,150,not reported,Ft. Benning,4.23,1202856,52708,Sherrilyn Kenyon,2.0,2.0
+2617,8530,45,not reported,"Washington, D.C.",3.96,515654,35046,Jonathan Safran Foer,2.0,1.0
+221554,3,12,male,"New Orleans, Louisiana.",3.72,87,11,Hamilton Basso,14.0,1.0
+5657,928,148,male,"West Point, New York",3.9,63605,4125,Gore Vidal,30.0,2.0
+29085,3076,34,not reported,Michigan,4.16,308010,17209,Daniel Silva,5.0,4.0
+71955,359,56,male,"Luton, Bedfordshire, England",3.87,60367,1166,Arthur Hailey,53.0,4.0
+43719,99,148,male,New York City,3.92,17446,1002,Howard Fast,6.0,1.0
+242659,495,15,male,not reported,3.74,80516,9639,David Lagercrantz,1.0,1.0
+7305,97,68,female,"Seattle, Washington",3.68,13656,1303,Mary McCarthy,20.0,1.0
+194243,4413,26,female,Toronto,4.16,306852,33121,Louise Penny,2.0,2.0
+54493,47356,71,female,Southern California,4.19,811712,78884,Kristin Hannah,2.0,2.0
+12584,614,72,male,"Bronx, New York City, New York",3.76,80775,7330,E.L. Doctorow,13.0,1.0
+344522,1618,116,female,Oxford,3.7,276713,19717,P.D. James,3.0,1.0
+66622,84,25,female,"Charleston, South Carolina",3.46,50012,2425,Alexandra Ripley,16.0,1.0
+82601,23,13,male,not reported,4.45,1280,109,Mattie J.T. Stepanek,2.0,1.0
+706255,10766,40,male,Skelleftehamn ,4.14,3046438,128816,Stieg Larsson,12.0,3.0
+77616,12,26,male,"Houston, Texas",4.0,9297,225,Allen Drury,32.0,2.0
+17065,8473,131,not reported,"Silver Spring, Maryland",4.28,1108486,43833,J.D. Robb,10.0,10.0
+2865170,0,1,not reported,not reported,3.43,7,2,Elizabeth Pickett Chevalier,1.0,1.0
+45336,0,25,not reported,not reported,3.34,324,54,Thomas Chastain,1.0,1.0
+4391,946,117,male,"Lachine, Quebec",3.78,73333,4728,Saul Bellow,29.0,1.0
+7902,464,154,male,Moscow,4.04,66751,2155,Boris Pasternak,26.0,1.0
+15590,1189,80,female,Sunderland,4.04,140626,6672,Mary Stewart,16.0,3.0
+8732,3739,106,male,"Spokane, Washington",4.06,808160,9688,David Eddings,3.0,1.0
+4372391,15487,24,female,not reported,4.25,345996,23781,S.C. Stephens,1.0,1.0
+9550,16432,121,female,"Heber Springs, Arkansas",3.98,1410995,41141,Laurell K. Hamilton,2.0,2.0
+281810,26102,32,female,"London, England",4.1,1094681,110744,Jojo Moyes,7.0,1.0
+7625163,915,267,male,"Detroit, Michigan",3.94,480755,10115,Tim LaHaye,25.0,7.0
+86785,12,8,female,"Jasper, Florida",3.98,699,91,Lillian E. Smith,15.0,1.0
+14255,5343,213,female,"New York, New York",3.8,554301,27690,Danielle Steel,94.0,28.0
+585,12355,192,male,"Salinas Valley, California",3.89,2770559,72745,John Steinbeck,23.0,2.0
+44061,198,84,male,"Madison, Wisconsin",3.72,66868,3090,Thornton Wilder,6.0,2.0
+5858,654,19,male,"Portland, Maine",3.8,443024,10983,Richard Bachman,4.0,1.0
+9212,10456,36,female,not reported,3.68,850469,34700,Jennifer Weiner,1.0,1.0
+766586,0,8,not reported,not reported,4.21,363,58,Morton Thompson,24.0,1.0
+14989,3152,42,male,"St. Paul, Minnesota",4.3,448065,15248,Vince Flynn,6.0,6.0
+6878,1215,322,male,"Shillington, Pennsylvania",3.81,219292,13692,John Updike,1.0,1.0
+129457,28,47,male,"Mansfield, OH",3.82,1931,200,Louis Bromfield,1.0,1.0
+7330,413,121,male,"Sauk Centre, Minnesota",3.75,53000,3414,Sinclair Lewis,2.0,1.0
+9020,363,68,male,"New York, New York",4.27,103274,4261,Herman Wouk,91.0,4.0
+19708,540,36,male,"Baltimore, Maryland",4.21,171124,4189,Leon Uris,66.0,4.0
+1411964,3071,104,male,"Poole, Dorset, England",3.9,267430,16687,John le Carré,77.0,7.0
+6160,18799,64,female,"London, England",3.73,2011508,76453,Sophie Kinsella,1.0,1.0
+20849,958,122,female,"Lelant, Cornwall, England",4.06,148654,5322,Rosamunde Pilcher,7.0,2.0
