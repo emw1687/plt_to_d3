@@ -27,8 +27,8 @@ def test_top_ten():
         columns = ['letter', 'position']
     )
     top_ten_df = v.top_ten(df, 'position')
-    assert(True == True)
-    assert(True == True)
+    assert(len(top_ten_df) == 10)
+    assert(top_ten_df.index[0] == df['position'].idxmax())
 
 def test_highlight_max():
     df = pd.DataFrame(
@@ -55,4 +55,16 @@ def test_highlight_max():
     )
     colors = v.highlight_max(df['position'], 'red', 'grey')
 
-    assert(True == True)
+    # bad test -- breaks if max shows up more than once
+    max_index = df['position'].idxmax()
+    assert(colors[max_index] == 'red')
+    colors.pop(max_index)
+    assert(set(colors) == set(['grey']))
+
+    # slightly better test
+    max_value = df['position'].max()
+    not_max_colors = []
+    for i, value in df['position'].iteritems():
+        if value != max_value:
+            not_max_colors.append(colors[i])
+    assert(set(not_max_colors) == set(['grey']))
