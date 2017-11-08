@@ -56,10 +56,10 @@ def test_highlight_max():
     colors = v.highlight_max(df['position'], 'red', 'grey')
 
     # bad test -- breaks if max shows up more than once
-    max_index = df['position'].idxmax()
-    assert(colors[max_index] == 'red')
-    colors.pop(max_index)
-    assert(set(colors) == set(['grey']))
+    # max_index = df['position'].idxmax()
+    # assert(colors[max_index] == 'red')
+    # colors.pop(max_index)
+    # assert(set(colors) == set(['grey']))
 
     # slightly better test
     max_value = df['position'].max()
